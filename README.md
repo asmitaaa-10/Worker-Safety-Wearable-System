@@ -18,7 +18,7 @@ The **Worker Safety Wearable System** is a low-cost embedded system designed to 
 - 🤸 **Fall Detection** — Detects sudden impacts and abnormal tilt using accelerometer + gyroscope data
 - 💨 **Hazardous Gas Monitoring** — Detects smoke, LPG, and combustible gases in real time
 - 🔔 **Instant Alerts** — Audio (buzzer) and visual (LED) alerts triggered immediately on detection
-- 📡 **Offline Operation** — Fully functional without internet or external connectivity
+- 📲 **App-Integrated Monitoring** — Sensor readings are transmitted and can be tracked in real time through a connected application
 - 💰 **Low-Cost & Scalable** — Built within a ₹1,000–₹2,000 budget, suitable for real-world deployment
 
 ---
@@ -90,9 +90,9 @@ Step 5 — Decision Logic
 
 ## 📸 Project Images
 
-| Normal (Safe) | Gas Alert | Fall Detection | Circuit Setup |
-|---|---|---|---|
-| 🟢 Green LED ON | 🔴 Red LED ON | 🟡 Yellow LED ON | No alert state |
+### 🟢 Normal Condition (Safe)
+<img width="1375" height="1600" alt="green" src="https://github.com/user-attachments/assets/b8a42e57-b5bd-493d-8f5b-eacba2282e96" />
+
 
 ---
 
