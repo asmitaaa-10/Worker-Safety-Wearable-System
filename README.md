@@ -3,7 +3,7 @@ Worker Safety Wearable System using Arduino Nano with MPU6050 and MQ-2 sensor fo
 
 # 🦺 Worker Safety Wearable System
 
-> A portable, real-time embedded safety device for hazardous work environments — no internet required.
+> A portable, real-time embedded safety device for hazardous work environments.
 
 ---
 
