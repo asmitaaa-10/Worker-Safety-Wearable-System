@@ -93,6 +93,27 @@ Step 5 — Decision Logic
 ### 🟢 Normal Condition (Safe)
 <img width="1375" height="1600" alt="green" src="https://github.com/user-attachments/assets/b8a42e57-b5bd-493d-8f5b-eacba2282e96" />
 
+### 🔴 Gas Alert
+<img width="1600" height="1170" alt="red" src="https://github.com/user-attachments/assets/3794f7c5-474a-41de-8c93-f39404ad5b3d" />
+
+### 🟡 Fall Detection
+<img width="1500" height="1567" alt="yellow" src="https://github.com/user-attachments/assets/91731f6d-3a2d-4ac6-b898-c07c2f7a2008" />
+
+### 🔧 Circuit Setup (No Alert)
+  - ## TOP VIEW
+<img width="960" height="904" alt="c1" src="https://github.com/user-attachments/assets/203ca030-57e1-4329-b709-9f7425930f4b" />
+
+  - ## SIDE VIEW
+<img width="1595" height="1259" alt="c2" src="https://github.com/user-attachments/assets/47daf79b-3547-4a9e-9186-cfddb9ab8c37" />
+
+
+---
+
+## 📸 Serial Monitor Output
+
+| 🟢 Normal | 🔴 Gas Alert | 🟡 Fall Detected |
+|---|---|---|
+| ![Normal](<img width="444" height="272" alt="safe" src="https://github.com/user-attachments/assets/75378d72-3255-4da6-bf5e-1540aa8fb4cf" />) | ![Gas](<img width="431" height="248" alt="smoke" src="https://github.com/user-attachments/assets/744e5b94-03cd-44f1-a61e-685ff57da195" />) | ![Fall](<img width="465" height="259" alt="fall" src="https://github.com/user-attachments/assets/360610df-3e16-4ef2-9877-f1a9c4e1bedf" />) |
 
 ---
 
@@ -121,8 +142,9 @@ This project demonstrates a **low-cost, real-time wearable safety system** that 
 
 ## 👥 Authors
 
-- **Kameshwaran Saravanan**
 - **Asmita Pal**
+- **Kameshwaran Saravanan**
+
 
 ---
 
