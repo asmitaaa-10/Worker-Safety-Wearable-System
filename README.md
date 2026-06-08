@@ -113,7 +113,10 @@ Step 5 — Decision Logic
 
 | 🟢 Normal | 🔴 Gas Alert | 🟡 Fall Detected |
 |---|---|---|
-| ![Normal](<img width="444" height="272" alt="safe" src="https://github.com/user-attachments/assets/75378d72-3255-4da6-bf5e-1540aa8fb4cf" />) | ![Gas](<img width="431" height="248" alt="smoke" src="https://github.com/user-attachments/assets/744e5b94-03cd-44f1-a61e-685ff57da195" />) | ![Fall](<img width="465" height="259" alt="fall" src="https://github.com/user-attachments/assets/360610df-3e16-4ef2-9877-f1a9c4e1bedf" />) |
+| ![Normal] <img width="444" height="272" alt="safe" src="https://github.com/user-attachments/assets/245293a9-a43a-4dbb-b6a9-f3ba6a2479df" />
+ | ![Gas] <img width="431" height="248" alt="smoke" src="https://github.com/user-attachments/assets/3bf93f42-f262-4e9b-98e5-756f47c26c53" />
+ | ![Fall]<img width="465" height="259" alt="fall" src="https://github.com/user-attachments/assets/7787440f-bc1a-4b68-af51-00c235ce701c" />
+ |
 
 ---
 
